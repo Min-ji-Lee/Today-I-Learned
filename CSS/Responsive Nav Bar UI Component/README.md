@@ -5,7 +5,7 @@
 ### Preview
 
 - wide  
-  <a href="#"><img src="https://github.com/Min-ji-Lee/Today-I-Learned/blob/master/CSS/Responsive%20Nav%20Bar%20UI%20Component/wide.JPG?raw=true" width="400px" alt="wide"></a>
+  <a href="#"><img src="https://github.com/Min-ji-Lee/Today-I-Learned/blob/master/CSS/Responsive%20Nav%20Bar%20UI%20Component/wide.JPG?raw=true" width="700px" alt="wide"></a>
 
 - small (1)  
   <a href="#"><img src="https://github.com/Min-ji-Lee/Today-I-Learned/blob/master/CSS/Responsive%20Nav%20Bar%20UI%20Component/small%201.JPG?raw=true" width="700x" alt="small1"></a>
