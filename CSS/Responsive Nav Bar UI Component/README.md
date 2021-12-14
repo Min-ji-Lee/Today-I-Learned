@@ -5,10 +5,10 @@
 ### Preview
 
 - wide  
-  <a href="#"><img src="https://github.com/Min-ji-Lee/Today-I-Learned/blob/master/CSS/Responsive%20Nav%20Bar%20UI%20Component/wide.JPG?raw=true" width="700px" alt="wide"></a>
+  <img src="wide.jpg" width="700px" alt="wide">
 
 - small (1)  
-  <a href="#"><img src="https://github.com/Min-ji-Lee/Today-I-Learned/blob/master/CSS/Responsive%20Nav%20Bar%20UI%20Component/small%201.JPG?raw=true" width="700x" alt="small1"></a>
+  <img src="small 1.jpg" width="700px" alt="small1">
 
 - small (2)  
-  <a href="#"><img src="https://github.com/Min-ji-Lee/Today-I-Learned/blob/master/CSS/Responsive%20Nav%20Bar%20UI%20Component/small%202.JPG?raw=true" width="700px" alt="small2"></a>
+  <img src="small 2.jpg" width="700px" alt="small2">
